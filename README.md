@@ -1,4 +1,7 @@
-#Keylogger GUI Application
+Keylogger GUI Application
+
+
+
 This is a simple Keylogger application built with Python using the tkinter library for the graphical user interface and pynput for capturing keyboard events. It allows users to log their keystrokes, save them to a file, and manage their logging experience through a user-friendly interface.
 
 Features
